@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MuscleBunny/gootghosting/issues"
   },
-  "homepage": "https://github.com/MuscleBunny/gootghosting#readme"
+  "homepage": "https://github.com/MuscleBunny/gootghosting#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
